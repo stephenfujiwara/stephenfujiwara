@@ -38,7 +38,7 @@ I'm just someone who wants to help others in a meaningful way.
 
 #
 
-<h3>👨‍💻 Driving Impact: </h3>
+<h3>👨‍💻 Currently Learning: </h3>
+   Currently learning web development at the moment, as well as fundamental machine learning concepts.
 
-   From someone who probably has no idea what he's talking about, it seems like machine learning is something that can be harnessed to drive massive, scalable impact on the lives of others. As a result, I hope to become a machine learning engineer one day, applying state-of-the-art models to various domains that have the potential to heavily transform society, i.e. Brain-Machine Interfaces, Robotic Farming, Automated Drug-Discovery. But as of right now, I feel like I am most valuable doing web development than doing ML at the moment, and hope to improve my skills as a web developer and as a software engineer overall. Maybe something else even more promising than ML might come about, and I might choose transition to that, but in overall terms, ML seems like the way to go in the long term.
           
