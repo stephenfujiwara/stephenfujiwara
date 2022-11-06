@@ -40,6 +40,6 @@ I'm just someone who wants to help others in a meaningful way.
 
 <h3>👨‍💻 Currently Learning: </h3>
 
-   Currently learning web development at the moment, as well as fundamental machine learning concepts (backprop, autograd).
+   Currently learning web development at the moment, as well as fundamental machine learning concepts.
 
           
