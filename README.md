@@ -1,6 +1,6 @@
 # 🚀 Stephen Fujiwara
 
-`Statistics Student at UCLA`
+`Software Noob`
 
 I'm just someone who wants to help make the world a better place.
 
